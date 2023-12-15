@@ -1,6 +1,6 @@
-# @digitalbazaar/vc-commit-trackr
+# @digitalbazaar/vc-commit-tracker
 
-> `@digitalbazaar/vc-commit-trackr` retrieves the most recent commit dates from
+> `@digitalbazaar/vc-commit-tracker` retrieves the most recent commit dates from
 > a list of public VC specs and test suites on Github and displays them within
 > a table in the README.
 
@@ -17,7 +17,7 @@ Requires:
 To install locally (for development):
 ```bash
 git clone https://github.com/digitalbazaar/vc-commit-tracker.git
-cd vc-commit-trackr
+cd vc-commit-tracker
 npm install
 ```
 To update the README with the most recent commit dates for VC specifications
