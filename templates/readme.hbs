@@ -1,8 +1,8 @@
 # @digitalbazaar/vc-commit-trackr
 
 > `@digitalbazaar/vc-commit-trackr` retrieves the most recent commit dates from
-> a list of public VC specs and test suites on Github and displays them in the
-> table below.
+> a list of public VC specs and test suites on Github and displays them within
+> a table in the README.
 
 ## GitHub Workflow
 
