@@ -16,11 +16,11 @@ Requires:
 
 To install locally (for development):
 ```bash
-git clone https://github.com/JSAssassin/vc-commit-trackr.git
+git clone https://github.com/digitalbazaar/vc-commit-tracker.git
 cd vc-commit-trackr
 npm install
 ```
-To update the table with the most recent commit dates for VC specifications
+To update the README with the most recent commit dates for VC specifications
 and test suite repositories:
 
 ```bash
