@@ -1,0 +1,31 @@
+{
+  "name": "@digitalbazaar/vc-commit-tracker",
+  "version": "0.0.1-0",
+  "description": "Retrieves the most recent commit dates from a list of VC specs and test suites.",
+  "type": "module",
+  "main": "lib/index.js",
+  "scripts": {
+    "update-readme": "node lib/index.js",
+    "lint": "eslint ."
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/vc-commit-tracker/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/vc-commit-tracker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/vc-commit-tracker"
+  },
+  "directories": {
+    "lib": "./lib",
+    "templates": "./templates"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
