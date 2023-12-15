@@ -4,6 +4,11 @@
   "description": "Retrieves the most recent commit dates from a list of VC specs and test suites.",
   "type": "module",
   "main": "lib/index.js",
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com/"
+  },
   "scripts": {
     "update-readme": "node ./lib/index.js",
     "lint": "eslint ."
@@ -11,10 +16,11 @@
   "dependencies": {
     "handlebars": "^4.7.8"
   },
-  "author": {
-    "name": "Digital Bazaar, Inc.",
-    "email": "support@digitalbazaar.com",
-    "url": "https://digitalbazaar.com/"
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-config-digitalbazaar": "^5.0.1",
+    "eslint-plugin-jsdoc": "^46.9.1",
+    "eslint-plugin-unicorn": "^49.0.0"
   },
   "bugs": {
     "url": "https://github.com/digitalbazaar/vc-commit-tracker/issues"
