@@ -1,0 +1,8 @@
+node_modules
+*.log
+*.sw[nop]
+*~
+.DS_Store
+.cache
+.settings
+.vscode
