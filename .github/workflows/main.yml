@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    # run at 10am UTC daily
-    - cron: '0 10 * * *'
+    # run at 10am UTC every Sunday.
+    - cron: '0 10 * * 0'
 
 jobs:
   lint:

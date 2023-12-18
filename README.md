@@ -6,7 +6,7 @@
 
 ## GitHub Workflow
 
-The configured GitHub workflow runs daily at 10 AM UTC, refreshing the
+The configured GitHub workflow runs at 10 AM UTC every Sunday, refreshing the
 `README.md` file. You can also manually run the workflow on main branch.
 
 ## Install
@@ -60,16 +60,16 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-model</td>
-          <td>2023-12-07T23:28:26Z</td>
+          <td>2023-12-17T02:27:40Z</td>
         </tr>
         <tr>
           <td>w3c/vc-data-model-2.0-test-suite</td>
-          <td>2023-12-12T16:17:02Z</td>
+          <td>2023-12-15T15:12:56Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-di-bbs</td>
-          <td>2023-12-15T03:43:19Z</td>
+          <td>2023-12-18T00:49:53Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-di-bbs-test-suite</td>
