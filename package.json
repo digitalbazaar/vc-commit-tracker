@@ -3,6 +3,7 @@
   "version": "0.0.1-0",
   "description": "Retrieves the most recent commit dates from a list of VC specs and test suites.",
   "type": "module",
+  "license": "BSD-3-Clause",
   "main": "lib/index.js",
   "author": {
     "name": "Digital Bazaar, Inc.",
