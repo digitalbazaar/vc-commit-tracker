@@ -47,7 +47,12 @@ jobs:
           git config user.email "<>"
       - name: Commit
         run: |
-          # Stage the file, commit and push
-          git add README.md
-          git commit -m "Update README.md."
-          git push origin main
+          if [[ -n $(git status -s) ]]; then
+            # If changes exist, stage the file, commit and push
+            git add README.md
+            git commit -m "Update README.md."
+            git push origin main
+          else
+            # No changes, skip commit and push.
+            echo "No changes to commit. Skipping commit and push."
+          fi
