@@ -141,3 +141,6 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
     </tbody>
 </table>
+
+## License
+[BSD-3-Clause](LICENSE) (c) Digital Bazaar, Inc.
