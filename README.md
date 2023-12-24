@@ -55,7 +55,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c/vc-di-eddsa-test-suite</td>
-          <td>2023-12-01T22:12:27Z</td>
+          <td>2023-12-21T15:35:54Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -136,7 +136,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c/vc-di-ed25519signature2020-test-suite</td>
-          <td>2023-12-01T21:59:53Z</td>
+          <td>2023-12-21T15:49:50Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
     </tbody>
