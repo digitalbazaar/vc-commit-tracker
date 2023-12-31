@@ -42,7 +42,7 @@ environment variable when executing the script to generate the table.
     <tbody>
         <tr>
           <td>w3c/vc-di-ecdsa</td>
-          <td>2023-11-21T10:26:25Z</td>
+          <td>2023-12-19T03:51:07Z</td>
         </tr>
         <tr>
           <td>w3c/vc-di-ecdsa-test-suite</td>
@@ -51,7 +51,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-di-eddsa</td>
-          <td>2023-11-21T10:25:39Z</td>
+          <td>2023-12-27T20:44:32Z</td>
         </tr>
         <tr>
           <td>w3c/vc-di-eddsa-test-suite</td>
@@ -60,7 +60,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-model</td>
-          <td>2023-12-17T02:27:40Z</td>
+          <td>2023-12-27T17:09:00Z</td>
         </tr>
         <tr>
           <td>w3c/vc-data-model-2.0-test-suite</td>
@@ -78,7 +78,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-bitstring-status-list</td>
-          <td>2023-11-19T10:17:26Z</td>
+          <td>2023-12-29T21:59:42Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/status-list-2021-test-suite</td>
@@ -114,7 +114,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-integrity</td>
-          <td>2023-11-21T10:24:22Z</td>
+          <td>2023-12-19T22:24:47Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/data-integrity-test-suite-assertion</td>
@@ -132,7 +132,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-di-eddsa</td>
-          <td>2023-11-21T10:25:39Z</td>
+          <td>2023-12-27T20:44:32Z</td>
         </tr>
         <tr>
           <td>w3c/vc-di-ed25519signature2020-test-suite</td>
