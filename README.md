@@ -60,11 +60,11 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-model</td>
-          <td>2024-01-06T20:19:51Z</td>
+          <td>2024-01-13T14:38:20Z</td>
         </tr>
         <tr>
           <td>w3c/vc-data-model-2.0-test-suite</td>
-          <td>2024-01-04T13:50:13Z</td>
+          <td>2024-01-10T18:26:21Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -73,34 +73,34 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c-ccg/vc-di-bbs-test-suite</td>
-          <td>2023-12-20T19:05:31Z</td>
+          <td>2024-01-04T20:36:49Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-bitstring-status-list</td>
-          <td>2023-12-29T21:59:42Z</td>
+          <td>2024-01-02T20:47:35Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/status-list-2021-test-suite</td>
-          <td>2023-12-14T19:47:27Z</td>
+          <td>2024-01-09T16:57:04Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c-ccg/vc-api</td>
-          <td>2024-01-02T19:53:58Z</td>
+          <td>2024-01-09T20:52:35Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-api-issuer-test-suite</td>
-          <td>2023-12-14T19:50:38Z</td>
+          <td>2024-01-09T16:31:39Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c-ccg/vc-api</td>
-          <td>2024-01-02T19:53:58Z</td>
+          <td>2024-01-09T20:52:35Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-api-verifier-test-suite</td>
-          <td>2023-12-14T19:58:19Z</td>
+          <td>2024-01-09T16:47:15Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -109,12 +109,12 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c-ccg/did-key-test-suite</td>
-          <td>2023-12-14T20:07:26Z</td>
+          <td>2024-01-09T16:53:52Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-integrity</td>
-          <td>2024-01-02T22:04:41Z</td>
+          <td>2024-01-07T17:17:34Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/data-integrity-test-suite-assertion</td>
