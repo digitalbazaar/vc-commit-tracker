@@ -42,11 +42,11 @@ environment variable when executing the script to generate the table.
     <tbody>
         <tr>
           <td>w3c/vc-di-ecdsa</td>
-          <td>2024-01-19T18:15:11Z</td>
+          <td>2024-02-11T21:13:01Z</td>
         </tr>
         <tr>
           <td>w3c/vc-di-ecdsa-test-suite</td>
-          <td>2024-02-08T14:32:14Z</td>
+          <td>2024-02-16T14:16:07Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -55,7 +55,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c/vc-di-eddsa-test-suite</td>
-          <td>2024-01-29T17:06:59Z</td>
+          <td>2024-02-05T18:41:16Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -87,7 +87,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c-ccg/vc-api</td>
-          <td>2024-01-23T19:20:02Z</td>
+          <td>2024-02-12T21:50:57Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-api-issuer-test-suite</td>
@@ -96,7 +96,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c-ccg/vc-api</td>
-          <td>2024-01-23T19:20:02Z</td>
+          <td>2024-02-12T21:50:57Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-api-verifier-test-suite</td>
@@ -114,7 +114,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-integrity</td>
-          <td>2024-01-07T17:17:34Z</td>
+          <td>2024-02-11T21:10:56Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/data-integrity-test-suite-assertion</td>
