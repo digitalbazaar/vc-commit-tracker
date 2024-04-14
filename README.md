@@ -46,7 +46,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c/vc-di-ecdsa-test-suite</td>
-          <td>2024-04-04T17:22:41Z</td>
+          <td>2024-04-10T15:19:14Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -73,7 +73,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c-ccg/vc-di-bbs-test-suite</td>
-          <td>2024-04-05T18:38:38Z</td>
+          <td>2024-04-09T15:08:58Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
