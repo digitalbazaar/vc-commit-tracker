@@ -46,7 +46,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c/vc-di-ecdsa-test-suite</td>
-          <td>2024-04-10T15:19:14Z</td>
+          <td>2024-04-15T15:31:53Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -55,12 +55,12 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c/vc-di-eddsa-test-suite</td>
-          <td>2024-02-05T18:41:16Z</td>
+          <td>2024-02-05T18:51:28Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-model</td>
-          <td>2024-04-02T13:55:15Z</td>
+          <td>2024-04-16T14:40:50Z</td>
         </tr>
         <tr>
           <td>w3c/vc-data-model-2.0-test-suite</td>
@@ -78,7 +78,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-bitstring-status-list</td>
-          <td>2024-04-06T21:09:07Z</td>
+          <td>2024-04-20T15:50:00Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/status-list-2021-test-suite</td>
@@ -87,7 +87,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c-ccg/vc-api</td>
-          <td>2024-03-26T19:48:28Z</td>
+          <td>2024-04-16T19:18:07Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-api-issuer-test-suite</td>
@@ -96,7 +96,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c-ccg/vc-api</td>
-          <td>2024-03-26T19:48:28Z</td>
+          <td>2024-04-16T19:18:07Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-api-verifier-test-suite</td>
@@ -118,7 +118,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c-ccg/data-integrity-test-suite-assertion</td>
-          <td>2024-03-31T17:55:05Z</td>
+          <td>2024-04-14T22:10:43Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
