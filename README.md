@@ -60,7 +60,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-model</td>
-          <td>2024-04-12T15:24:11Z</td>
+          <td>2024-05-07T23:16:18Z</td>
         </tr>
         <tr>
           <td>w3c/vc-data-model-2.0-test-suite</td>
@@ -73,12 +73,12 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c-ccg/vc-di-bbs-test-suite</td>
-          <td>2024-05-01T19:10:47Z</td>
+          <td>2024-05-07T18:20:47Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-bitstring-status-list</td>
-          <td>2024-05-03T13:36:52Z</td>
+          <td>2024-05-11T12:22:45Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/status-list-2021-test-suite</td>
