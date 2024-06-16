@@ -42,43 +42,43 @@ environment variable when executing the script to generate the table.
     <tbody>
         <tr>
           <td>w3c/vc-di-ecdsa</td>
-          <td>2024-02-29T16:01:34Z</td>
+          <td>2024-05-23T17:18:32Z</td>
         </tr>
         <tr>
           <td>w3c/vc-di-ecdsa-test-suite</td>
-          <td>2024-05-28T13:22:31Z</td>
+          <td>2024-06-13T17:16:50Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-di-eddsa</td>
-          <td>2024-04-28T14:51:28Z</td>
+          <td>2024-05-01T22:38:51Z</td>
         </tr>
         <tr>
           <td>w3c/vc-di-eddsa-test-suite</td>
-          <td>2024-06-03T19:58:07Z</td>
+          <td>2024-06-13T17:48:37Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-model</td>
-          <td>2024-06-03T15:25:18Z</td>
+          <td>2024-04-17T15:28:30Z</td>
         </tr>
         <tr>
           <td>w3c/vc-data-model-2.0-test-suite</td>
-          <td>2024-04-24T18:08:47Z</td>
+          <td>2024-06-11T18:08:01Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-di-bbs</td>
-          <td>2024-04-24T16:12:45Z</td>
+          <td>2024-05-13T17:28:37Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-di-bbs-test-suite</td>
-          <td>2024-05-14T17:42:22Z</td>
+          <td>2024-06-13T17:09:26Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-bitstring-status-list</td>
-          <td>2024-06-08T18:03:54Z</td>
+          <td>2024-06-10T15:51:40Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/status-list-2021-test-suite</td>
@@ -114,11 +114,11 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-integrity</td>
-          <td>2024-04-29T15:24:31Z</td>
+          <td>2024-06-14T15:19:37Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/data-integrity-test-suite-assertion</td>
-          <td>2024-04-14T22:10:43Z</td>
+          <td>2024-06-13T17:32:28Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -132,7 +132,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-di-eddsa</td>
-          <td>2024-04-28T14:51:28Z</td>
+          <td>2024-05-01T22:38:51Z</td>
         </tr>
         <tr>
           <td>w3c/vc-di-ed25519signature2020-test-suite</td>
