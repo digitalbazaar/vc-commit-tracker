@@ -46,7 +46,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c/vc-di-ecdsa-test-suite</td>
-          <td>2024-06-13T17:16:50Z</td>
+          <td>2024-06-18T20:55:05Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -55,25 +55,25 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c/vc-di-eddsa-test-suite</td>
-          <td>2024-06-13T17:48:37Z</td>
+          <td>2024-06-18T20:54:39Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-model</td>
-          <td>2024-06-18T13:48:19Z</td>
+          <td>2024-06-24T23:30:26Z</td>
         </tr>
         <tr>
           <td>w3c/vc-data-model-2.0-test-suite</td>
-          <td>2024-06-11T18:08:01Z</td>
+          <td>2024-06-12T14:48:01Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-di-bbs</td>
-          <td>2024-06-09T08:37:49Z</td>
+          <td>2024-06-25T14:31:36Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-di-bbs-test-suite</td>
-          <td>2024-06-19T19:04:46Z</td>
+          <td>2024-06-25T17:51:46Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -87,7 +87,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c-ccg/vc-api</td>
-          <td>2024-06-18T19:22:20Z</td>
+          <td>2024-06-25T18:33:41Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-api-issuer-test-suite</td>
@@ -96,7 +96,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c-ccg/vc-api</td>
-          <td>2024-06-18T19:22:20Z</td>
+          <td>2024-06-25T18:33:41Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-api-verifier-test-suite</td>
@@ -114,11 +114,11 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-integrity</td>
-          <td>2024-06-20T15:43:15Z</td>
+          <td>2024-06-22T19:49:22Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/data-integrity-test-suite-assertion</td>
-          <td>2024-06-18T16:59:48Z</td>
+          <td>2024-06-18T20:57:02Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
