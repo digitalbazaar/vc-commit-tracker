@@ -43,11 +43,11 @@ environment variable when executing the script to generate the table.
       {{#each repoPairs}}
         {{#each this}}
         <tr>
-          <td>{{name}}</td>
-          <td>{{latestCommitDate}}</td>
+          <td><a href="{{href}}">{{name}}</a></td>
+          <td{{#if concerning}} style="color: red"{{/if}}{{#if ok}} style="color: green"{{/if}}>{{latestCommitDate}}</td>
         </tr>
         {{/each}}
-      <tr><td> </td> <td> </td></tr>
+        <tr style="border: 3px solid black;"></tr>
       {{/each}}
     </tbody>
 </table>
