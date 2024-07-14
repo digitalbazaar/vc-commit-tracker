@@ -42,11 +42,11 @@ environment variable when executing the script to generate the table.
     <tbody>
         <tr>
           <td>w3c/vc-di-ecdsa</td>
-          <td>2024-06-28T19:09:34Z</td>
+          <td>2024-07-10T14:47:47Z</td>
         </tr>
         <tr>
           <td>w3c/vc-di-ecdsa-test-suite</td>
-          <td>2024-06-18T20:55:05Z</td>
+          <td>2024-07-04T22:14:17Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -60,11 +60,11 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-model</td>
-          <td>2024-07-06T14:29:59Z</td>
+          <td>2024-07-09T13:54:18Z</td>
         </tr>
         <tr>
           <td>w3c/vc-data-model-2.0-test-suite</td>
-          <td>2024-07-04T14:13:11Z</td>
+          <td>2024-07-04T22:31:02Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -73,7 +73,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td>w3c-ccg/vc-di-bbs-test-suite</td>
-          <td>2024-06-30T15:22:58Z</td>
+          <td>2024-07-10T20:21:43Z</td>
         </tr>
       <tr><td> </td> <td> </td></tr>
         <tr>
@@ -87,7 +87,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c-ccg/vc-api</td>
-          <td>2024-06-25T18:33:41Z</td>
+          <td>2024-07-09T19:03:24Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-api-issuer-test-suite</td>
@@ -96,7 +96,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c-ccg/vc-api</td>
-          <td>2024-06-25T18:33:41Z</td>
+          <td>2024-07-09T19:03:24Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/vc-api-verifier-test-suite</td>
@@ -114,7 +114,7 @@ environment variable when executing the script to generate the table.
       <tr><td> </td> <td> </td></tr>
         <tr>
           <td>w3c/vc-data-integrity</td>
-          <td>2024-07-01T21:59:37Z</td>
+          <td>2024-07-09T13:11:18Z</td>
         </tr>
         <tr>
           <td>w3c-ccg/data-integrity-test-suite-assertion</td>
