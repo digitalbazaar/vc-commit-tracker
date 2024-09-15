@@ -60,11 +60,11 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model">w3c/vc-data-model</a></td>
-          <td style="color: red">2024-08-28T14:35:25Z</td>
+          <td>2024-08-28T14:35:25Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model-2.0-test-suite">w3c/vc-data-model-2.0-test-suite</a></td>
-          <td>2024-08-15T14:49:12Z</td>
+          <td style="color: green">2024-09-04T20:34:32Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -82,12 +82,12 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/status-list-2021-test-suite">w3c-ccg/status-list-2021-test-suite</a></td>
-          <td style="color: green">2024-08-12T20:30:30Z</td>
+          <td style="color: green">2024-08-13T13:10:50Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api">w3c-ccg/vc-api</a></td>
-          <td style="color: red">2024-08-21T09:41:53Z</td>
+          <td style="color: red">2024-09-11T19:37:49Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api-issuer-test-suite">w3c-ccg/vc-api-issuer-test-suite</a></td>
@@ -96,7 +96,7 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api">w3c-ccg/vc-api</a></td>
-          <td style="color: red">2024-08-21T09:41:53Z</td>
+          <td style="color: red">2024-09-11T19:37:49Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api-verifier-test-suite">w3c-ccg/vc-api-verifier-test-suite</a></td>
@@ -118,7 +118,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/data-integrity-test-suite-assertion">w3c-ccg/data-integrity-test-suite-assertion</a></td>
-          <td style="color: green">2024-09-03T18:46:57Z</td>
+          <td style="color: green">2024-09-09T15:59:12Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
