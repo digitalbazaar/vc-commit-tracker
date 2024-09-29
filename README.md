@@ -42,11 +42,11 @@ environment variable when executing the script to generate the table.
     <tbody>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa">w3c/vc-di-ecdsa</a></td>
-          <td style="color: red">2024-09-16T00:24:26Z</td>
+          <td style="color: red">2024-09-27T03:20:39Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa-test-suite">w3c/vc-di-ecdsa-test-suite</a></td>
-          <td>2024-08-05T16:22:51Z</td>
+          <td>2024-09-26T15:02:54Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -55,16 +55,16 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-eddsa-test-suite">w3c/vc-di-eddsa-test-suite</a></td>
-          <td style="color: green">2024-09-19T16:30:31Z</td>
+          <td style="color: green">2024-09-26T15:13:04Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model">w3c/vc-data-model</a></td>
-          <td>2024-09-18T19:34:34Z</td>
+          <td>2024-09-15T23:01:02Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model-2.0-test-suite">w3c/vc-data-model-2.0-test-suite</a></td>
-          <td style="color: green">2024-09-20T22:37:52Z</td>
+          <td style="color: green">2024-09-23T17:15:56Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -109,16 +109,16 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/did-key-test-suite">w3c-ccg/did-key-test-suite</a></td>
-          <td style="color: green">2024-01-09T16:53:52Z</td>
+          <td style="color: green">2023-11-17T19:17:13Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-integrity">w3c/vc-data-integrity</a></td>
-          <td style="color: red">2024-09-19T23:46:08Z</td>
+          <td>2024-09-19T23:46:08Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/data-integrity-test-suite-assertion">w3c-ccg/data-integrity-test-suite-assertion</a></td>
-          <td>2024-09-18T15:37:43Z</td>
+          <td style="color: green">2024-09-27T15:35:37Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
