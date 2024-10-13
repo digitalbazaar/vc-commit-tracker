@@ -46,7 +46,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa-test-suite">w3c/vc-di-ecdsa-test-suite</a></td>
-          <td>2024-09-26T15:02:54Z</td>
+          <td>2024-10-02T21:09:22Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -60,11 +60,11 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model">w3c/vc-data-model</a></td>
-          <td style="color: red">2024-10-05T21:37:59Z</td>
+          <td>2024-10-05T21:37:59Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model-2.0-test-suite">w3c/vc-data-model-2.0-test-suite</a></td>
-          <td>2024-09-23T17:15:56Z</td>
+          <td style="color: green">2024-10-08T16:59:48Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -73,7 +73,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-di-bbs-test-suite">w3c-ccg/vc-di-bbs-test-suite</a></td>
-          <td style="color: green">2024-09-16T15:40:14Z</td>
+          <td style="color: green">2024-10-11T18:35:54Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -118,7 +118,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/data-integrity-test-suite-assertion">w3c-ccg/data-integrity-test-suite-assertion</a></td>
-          <td>2024-10-02T13:51:56Z</td>
+          <td>2024-09-29T18:57:59Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
