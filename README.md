@@ -51,11 +51,11 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-eddsa">w3c/vc-di-eddsa</a></td>
-          <td style="color: red">2024-10-19T17:58:15Z</td>
+          <td>2024-10-19T17:58:15Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-eddsa-test-suite">w3c/vc-di-eddsa-test-suite</a></td>
-          <td>2024-09-26T15:13:04Z</td>
+          <td style="color: green">2024-10-30T19:40:33Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -82,7 +82,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/status-list-2021-test-suite">w3c-ccg/status-list-2021-test-suite</a></td>
-          <td style="color: green">2024-10-22T17:01:52Z</td>
+          <td style="color: green">2024-10-30T18:32:12Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -118,7 +118,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/data-integrity-test-suite-assertion">w3c-ccg/data-integrity-test-suite-assertion</a></td>
-          <td style="color: green">2024-10-24T14:35:47Z</td>
+          <td style="color: green">2024-10-27T23:38:22Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
