@@ -55,7 +55,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-eddsa-test-suite">w3c/vc-di-eddsa-test-suite</a></td>
-          <td style="color: green">2024-10-30T19:40:33Z</td>
+          <td style="color: green">2024-11-04T15:56:20Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -82,7 +82,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/status-list-2021-test-suite">w3c-ccg/status-list-2021-test-suite</a></td>
-          <td style="color: green">2024-10-30T18:32:12Z</td>
+          <td style="color: green">2024-11-05T16:53:41Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
