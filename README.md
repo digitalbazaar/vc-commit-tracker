@@ -64,7 +64,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model-2.0-test-suite">w3c/vc-data-model-2.0-test-suite</a></td>
-          <td style="color: green">2024-10-22T16:42:01Z</td>
+          <td style="color: green">2024-11-13T17:47:41Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
