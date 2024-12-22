@@ -42,11 +42,11 @@ environment variable when executing the script to generate the table.
     <tbody>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa">w3c/vc-di-ecdsa</a></td>
-          <td style="color: red">2024-12-14T15:03:40Z</td>
+          <td>2024-12-14T15:03:40Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa-test-suite">w3c/vc-di-ecdsa-test-suite</a></td>
-          <td>2024-12-02T15:44:10Z</td>
+          <td style="color: green">2024-12-17T20:13:05Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -60,11 +60,11 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model">w3c/vc-data-model</a></td>
-          <td style="color: red">2024-12-14T15:03:23Z</td>
+          <td>2024-12-17T16:18:32Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model-2.0-test-suite">w3c/vc-data-model-2.0-test-suite</a></td>
-          <td>2024-12-11T18:01:54Z</td>
+          <td style="color: green">2024-12-19T20:48:00Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -78,29 +78,29 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-bitstring-status-list">w3c/vc-bitstring-status-list</a></td>
-          <td>2024-12-08T20:25:02Z</td>
+          <td style="color: red">2024-12-18T14:33:20Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/status-list-2021-test-suite">w3c-ccg/status-list-2021-test-suite</a></td>
-          <td style="color: green">2024-12-10T18:06:08Z</td>
+          <td>2024-12-10T18:06:08Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api">w3c-ccg/vc-api</a></td>
-          <td style="color: red">2024-11-19T20:45:11Z</td>
+          <td style="color: red">2024-12-17T20:47:42Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api-issuer-test-suite">w3c-ccg/vc-api-issuer-test-suite</a></td>
-          <td>2024-07-03T20:16:13Z</td>
+          <td>2024-12-16T16:46:30Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api">w3c-ccg/vc-api</a></td>
-          <td style="color: red">2024-11-19T20:45:11Z</td>
+          <td style="color: red">2024-12-17T20:47:42Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api-verifier-test-suite">w3c-ccg/vc-api-verifier-test-suite</a></td>
-          <td>2024-04-30T16:53:29Z</td>
+          <td>2024-12-16T16:38:35Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
