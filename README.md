@@ -64,7 +64,7 @@ environment variable when executing the script to generate the table.
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model-2.0-test-suite">w3c/vc-data-model-2.0-test-suite</a></td>
-          <td style="color: green">2024-12-19T20:48:00Z</td>
+          <td style="color: green">2025-01-08T19:15:06Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -114,7 +114,7 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-integrity">w3c/vc-data-integrity</a></td>
-          <td style="color: red">2024-12-14T15:03:37Z</td>
+          <td style="color: red">2024-12-13T13:45:06Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/data-integrity-test-suite-assertion">w3c-ccg/data-integrity-test-suite-assertion</a></td>
