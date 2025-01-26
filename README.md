@@ -42,29 +42,29 @@ environment variable when executing the script to generate the table.
     <tbody>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa">w3c/vc-di-ecdsa</a></td>
-          <td style="color: red">2024-12-19T23:35:24Z</td>
+          <td>2024-12-19T23:35:24Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa-test-suite">w3c/vc-di-ecdsa-test-suite</a></td>
-          <td>2024-12-17T20:13:05Z</td>
+          <td style="color: green">2025-01-14T20:52:49Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-eddsa">w3c/vc-di-eddsa</a></td>
-          <td style="color: red">2025-01-02T22:31:18Z</td>
+          <td>2025-01-02T22:31:18Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-eddsa-test-suite">w3c/vc-di-eddsa-test-suite</a></td>
-          <td>2024-11-04T15:56:20Z</td>
+          <td style="color: green">2025-01-07T20:15:04Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model">w3c/vc-data-model</a></td>
-          <td style="color: red">2025-01-18T19:50:39Z</td>
+          <td style="color: red">2025-01-23T18:37:38Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model-2.0-test-suite">w3c/vc-data-model-2.0-test-suite</a></td>
-          <td>2025-01-08T19:15:06Z</td>
+          <td>2025-01-07T20:10:10Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -78,11 +78,11 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-bitstring-status-list">w3c/vc-bitstring-status-list</a></td>
-          <td style="color: red">2024-12-18T14:33:20Z</td>
+          <td style="color: red">2025-01-19T22:05:44Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/status-list-2021-test-suite">w3c-ccg/status-list-2021-test-suite</a></td>
-          <td>2024-12-10T18:06:08Z</td>
+          <td>2025-01-07T20:04:13Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
