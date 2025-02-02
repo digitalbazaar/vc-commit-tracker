@@ -42,38 +42,38 @@ environment variable when executing the script to generate the table.
     <tbody>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa">w3c/vc-di-ecdsa</a></td>
-          <td>2024-12-19T23:35:24Z</td>
+          <td style="color: red">2025-01-23T17:40:36Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa-test-suite">w3c/vc-di-ecdsa-test-suite</a></td>
-          <td style="color: green">2025-01-14T20:52:49Z</td>
+          <td>2025-01-14T20:52:49Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-eddsa">w3c/vc-di-eddsa</a></td>
-          <td>2025-01-02T22:31:18Z</td>
+          <td style="color: red">2025-01-19T23:46:28Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-eddsa-test-suite">w3c/vc-di-eddsa-test-suite</a></td>
-          <td style="color: green">2025-01-07T20:15:04Z</td>
+          <td>2025-01-07T20:15:04Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model">w3c/vc-data-model</a></td>
-          <td style="color: red">2025-01-23T18:37:38Z</td>
+          <td style="color: red">2025-01-27T22:20:40Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model-2.0-test-suite">w3c/vc-data-model-2.0-test-suite</a></td>
-          <td>2025-01-07T20:10:10Z</td>
+          <td>2025-01-07T19:29:56Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-bbs">w3c/vc-di-bbs</a></td>
-          <td>2024-10-15T15:49:00Z</td>
+          <td style="color: red">2025-01-30T17:22:08Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-di-bbs-test-suite">w3c-ccg/vc-di-bbs-test-suite</a></td>
-          <td style="color: green">2024-12-06T15:25:37Z</td>
+          <td>2024-12-06T15:25:37Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -87,7 +87,7 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api">w3c-ccg/vc-api</a></td>
-          <td style="color: red">2024-12-17T20:47:42Z</td>
+          <td style="color: red">2025-01-29T16:51:19Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api-issuer-test-suite">w3c-ccg/vc-api-issuer-test-suite</a></td>
@@ -96,7 +96,7 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api">w3c-ccg/vc-api</a></td>
-          <td style="color: red">2024-12-17T20:47:42Z</td>
+          <td style="color: red">2025-01-29T16:51:19Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api-verifier-test-suite">w3c-ccg/vc-api-verifier-test-suite</a></td>
@@ -114,11 +114,11 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-integrity">w3c/vc-data-integrity</a></td>
-          <td style="color: red">2025-01-18T21:18:19Z</td>
+          <td>2025-01-26T17:41:10Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/data-integrity-test-suite-assertion">w3c-ccg/data-integrity-test-suite-assertion</a></td>
-          <td>2024-10-27T23:38:22Z</td>
+          <td style="color: green">2025-01-27T17:32:28Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -132,11 +132,11 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-eddsa">w3c/vc-di-eddsa</a></td>
-          <td>2025-01-02T22:31:18Z</td>
+          <td style="color: red">2025-01-19T23:46:28Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ed25519signature2020-test-suite">w3c/vc-di-ed25519signature2020-test-suite</a></td>
-          <td style="color: green">2025-01-07T20:29:58Z</td>
+          <td>2025-01-07T20:29:58Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
     </tbody>
