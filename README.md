@@ -60,29 +60,29 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model">w3c/vc-data-model</a></td>
-          <td style="color: red">2025-01-27T22:20:40Z</td>
+          <td>2025-01-27T22:20:40Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-model-2.0-test-suite">w3c/vc-data-model-2.0-test-suite</a></td>
-          <td>2025-01-07T19:29:56Z</td>
+          <td style="color: green">2025-02-09T23:15:30Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-bbs">w3c/vc-di-bbs</a></td>
-          <td style="color: red">2025-01-30T17:22:08Z</td>
+          <td>2025-01-30T17:22:08Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-di-bbs-test-suite">w3c-ccg/vc-di-bbs-test-suite</a></td>
-          <td>2024-12-06T15:25:37Z</td>
+          <td style="color: green">2025-02-12T21:16:24Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-bitstring-status-list">w3c/vc-bitstring-status-list</a></td>
-          <td style="color: red">2025-02-02T23:59:55Z</td>
+          <td>2025-02-02T23:59:55Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/status-list-2021-test-suite">w3c-ccg/status-list-2021-test-suite</a></td>
-          <td>2025-01-07T20:04:13Z</td>
+          <td style="color: green">2025-02-10T15:38:46Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
@@ -114,7 +114,7 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-data-integrity">w3c/vc-data-integrity</a></td>
-          <td style="color: red">2025-02-03T00:10:43Z</td>
+          <td style="color: red">2025-02-14T17:07:15Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/data-integrity-test-suite-assertion">w3c-ccg/data-integrity-test-suite-assertion</a></td>
