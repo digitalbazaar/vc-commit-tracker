@@ -87,7 +87,7 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api">w3c-ccg/vc-api</a></td>
-          <td style="color: red">2025-03-18T19:45:45Z</td>
+          <td style="color: red">2025-03-23T18:48:06Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api-issuer-test-suite">w3c-ccg/vc-api-issuer-test-suite</a></td>
@@ -96,7 +96,7 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api">w3c-ccg/vc-api</a></td>
-          <td style="color: red">2025-03-18T19:45:45Z</td>
+          <td style="color: red">2025-03-23T18:48:06Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-api-verifier-test-suite">w3c-ccg/vc-api-verifier-test-suite</a></td>
@@ -105,7 +105,7 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/did-method-key">w3c-ccg/did-method-key</a></td>
-          <td style="color: red">2025-03-15T21:07:54Z</td>
+          <td style="color: red">2025-03-26T14:20:09Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/did-key-test-suite">w3c-ccg/did-key-test-suite</a></td>
