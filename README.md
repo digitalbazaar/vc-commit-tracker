@@ -123,7 +123,7 @@ environment variable when executing the script to generate the table.
         <tr style="border: 3px solid black;"></tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-refresh-2021">w3c-ccg/vc-refresh-2021</a></td>
-          <td style="color: red">2025-09-15T21:03:54Z</td>
+          <td style="color: red">2025-09-27T21:52:10Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c-ccg/vc-refresh-2021-test-suite">w3c-ccg/vc-refresh-2021-test-suite</a></td>
