@@ -42,11 +42,11 @@ environment variable when executing the script to generate the table.
     <tbody>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa">w3c/vc-di-ecdsa</a></td>
-          <td style="color: red">2025-05-15T21:16:32Z</td>
+          <td>2025-05-15T21:16:32Z</td>
         </tr>
         <tr>
           <td><a href="https://github.com/w3c/vc-di-ecdsa-test-suite">w3c/vc-di-ecdsa-test-suite</a></td>
-          <td>2025-03-06T22:00:41Z</td>
+          <td style="color: green">2025-10-24T19:39:36Z</td>
         </tr>
         <tr style="border: 3px solid black;"></tr>
         <tr>
